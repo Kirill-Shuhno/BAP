@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\plus_plus\\pr3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F058AA8A-B068-465B-A6B1-C5FD4CF3DC4F}|pr3\\pr3.vcxproj|D:\\plus_plus\\pr3\\pr3\\pr3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F058AA8A-B068-465B-A6B1-C5FD4CF3DC4F}|pr3\\pr3.vcxproj|solutionrelative:pr3\\pr3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pr3.cpp",
+              "DocumentMoniker": "D:\\plus_plus\\pr3\\pr3\\pr3.cpp",
+              "RelativeDocumentMoniker": "pr3\\pr3.cpp",
+              "ToolTip": "D:\\plus_plus\\pr3\\pr3\\pr3.cpp",
+              "RelativeToolTip": "pr3\\pr3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-23T20:56:30.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
